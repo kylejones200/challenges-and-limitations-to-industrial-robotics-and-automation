@@ -12,7 +12,7 @@ and pave the way for future smart factories. However, there are...
 #### Industrial robots bring numerous benefits to manufacturing facilities and pave the way for future smart factories. However, there are certain limitations that manufacturers must consider when choosing their robotic equipment.
 The need for automated processes is increasing. Fortune Business Insights predicts the industrial robot market will reach \$31.3 billion by 2028. Manufacturers are increasingly aware of robot deployment's potential business and production benefits. However, industrial robots have their drawbacks. Here are some of their most common limitations and suggestions on what manufacturers can do to overcome them.
 
-**Affordability**
+Affordability
 
 Industrial robots usually require a significant initial investment, including additional setup and configuration costs. Manufacturers must also consider future maintenance costs and the need for additional components.
 
@@ -22,7 +22,7 @@ However, industrial robots can help manufacturers reduce costs in different area
 
 Another smart alternative is to invest in refurbished robots. Used robots are generally half the cost of new ones and remain efficient and operational.
 
-**Security**
+Security
 
 Industrial robots have always been considered dangerous in the factory. And with good reason: they are large, bulky pieces of equipment and capable of moving very quickly. Older machines even lack the sensory ability to detect nearby humans, making them prone to dangerous collisions and accidents. For this reason, many manufacturers add cages or dividers to separate the robots from their human co-workers.
 
@@ -32,7 +32,7 @@ There is little question about progress, even though there is still some work to
 
 Another good practice for manufacturers is to carry out an individual risk assessment of their production line and train workers to react in the event of an accident.
 
-**More difficult to form**
+More difficult to form
 
 Industrial robots require expert programming and training to perform tasks, so companies must hire experienced technicians and programmers to oversee robot installation. Furthermore, even experienced staff may need to update their skills when new software is developed, or new robots come on the market. If a robot is not programmed correctly, it can malfunction and harm those around it.
 
@@ -42,7 +42,7 @@ The low-code and no-code platform trend is rising, with 84% of US, UK, Canadian,
 
 Industrial robots have been shown to simplify human work, bring a quick return on investment for manufacturers and optimize production. However, they have limitations. They are more challenging to train than humans, require high investment and maintenance costs, and pose safety concerns. Although these are legitimate concerns for manufacturers, they can be addressed with careful planning and new technologies to overcome them.
 
-**Maintenance and Repair**
+Maintenance and Repair
 
 Maintenance and repair are one of the limitations of industrial robotics and automation. While robotic systems offer many advantages, such as increased productivity and reduced labor costs, they can also be complex and require specialized expertise to maintain and repair.
 

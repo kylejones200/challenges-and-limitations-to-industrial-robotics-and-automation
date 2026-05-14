@@ -1,7 +1,7 @@
 # Challenges and limitations to industrial robotics and automation
 
-**Published:** 2023-04-15
-**Medium:** [https://medium.com/@kyle-t-jones/challenges-and-limitations-to-industrial-robotics-and-automation-170b54182a35](https://medium.com/@kyle-t-jones/challenges-and-limitations-to-industrial-robotics-and-automation-170b54182a35)
+Published: 2023-04-15
+Medium: [https://medium.com/@kyle-t-jones/challenges-and-limitations-to-industrial-robotics-and-automation-170b54182a35](https://medium.com/@kyle-t-jones/challenges-and-limitations-to-industrial-robotics-and-automation-170b54182a35)
 
 ## About
 
