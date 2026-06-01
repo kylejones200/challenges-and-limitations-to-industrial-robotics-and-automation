@@ -11,14 +11,7 @@ Industrial robots usually require a significant initial investment, including ad
 
 Likewise, the robotics sector constantly evolves, and updated machines always appear on the market. Investing in new robots regularly could prove difficult for some companies, especially smaller ones, which could go bankrupt trying to keep up with industry trends.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
